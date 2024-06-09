@@ -1,8 +1,8 @@
-#Project Description: Cybersecurity 500 Data Analysis and Visualization
+# Project Description: Cybersecurity 500 Data Analysis and Visualization
 Overview
 The "Cybersecurity 500 Data Analysis and Visualization" project aims to create a comprehensive data analysis and visualization platform that offers insights into the leading companies in the cybersecurity industry. The project will leverage the Cybersecurity 500 dataset, which lists the world’s hottest and most innovative cybersecurity companies. Our objectives include gathering extensive data about these companies, organizing and refining the data, drawing insightful conclusions, and developing an interactive website for user-friendly data manipulation and exploration.
 
-#Goals
+# Goals
 Data Enrichment:
 
 Collect additional information about each company, including financial metrics, market value, employee count, and industry impact.
@@ -27,7 +27,7 @@ Interactive Website Development:
 Design and develop an intuitive website that allows users to interact with the dataset.
 Implement features for sorting, filtering, and visualizing data according to user preferences.
 Provide dynamic visualization tools, such as charts and maps, to enhance data exploration and understanding.
-#Methodology
+# Methodology
 Data Collection and Integration:
 
 Utilize APIs and web scraping techniques to gather additional data.
@@ -44,7 +44,7 @@ Advanced Data Analysis:
 
 Employ machine learning algorithms for clustering and classification of companies.
 Use regression analysis to identify relationships between company performance and other variables.
-Website Development:
+# Website Development:
 
 Utilize modern web development frameworks (e.g., React, Django) to build the website.
 Implement interactive features using JavaScript libraries (e.g., D3.js, Chart.js) for data visualization.
